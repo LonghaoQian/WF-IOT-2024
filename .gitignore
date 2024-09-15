@@ -71,3 +71,5 @@ ut/report/*
 *.exe
 *.out*
 *.app
+
+.idea/
